@@ -1,6 +1,6 @@
 # VideoVeritas:  AI-Generated Video Detection via Perception Pretext Reinforcement Learning
 
-[ Paper | [Data](https://www.modelscope.cn/datasets/EricTanh/MintVid) | Model]
+[ 📄Paper | 🔗[Data](https://www.modelscope.cn/datasets/EricTanh/MintVid) | 🚀Model]
 
 In this work, we introduce:
 
