@@ -1,6 +1,6 @@
 # VideoVeritas:  AI-Generated Video Detection via Perception Pretext Reinforcement Learning
 
-[ 📄[Paper](https://arxiv.org/pdf/2602.08828) | 🔗[Data](https://www.modelscope.cn/datasets/EricTanh/MintVid)]
+[ 📄[**Paper**](https://arxiv.org/pdf/2602.08828) | 🔗[**Data**](https://www.modelscope.cn/datasets/EricTanh/MintVid) | 🚀[**Model**](https://www.modelscope.cn/models/EricTanh/VideoVeritas) ]
 
 In this work, we introduce:
 
@@ -29,7 +29,7 @@ pip install -e .
 ```
 
 ## 🔎 Inference on single video
-We recommend using `vLLM` for model deployment:
+Download [**VideoVeritas**](https://www.modelscope.cn/models/EricTanh/VideoVeritas) 🔥🔥🔥. We recommend using `vLLM` for model deployment:
 ```bash
 sh self_scripts/deploy/deploy_model.sh /path/to/your/model
 ```
@@ -53,7 +53,24 @@ sh self_scripts/infer/infer_mintvid.sh
 ```
 
 
+
+## Citation
+
+If you find our work useful, please cite our paper:
+
+```
+@article{tan2026videoveritas,
+ 	title={VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning},
+  author={Tan, Hao and Lan, Jun and Shi, Senyuan and Tan, Zichang and Yu, Zijian and Zhu, Huijia and Wang, Weiqiang and Wan, Jun and Lei, Zhen},
+  journal={arXiv preprint arXiv:2602.08828},
+  year={2026}
+}
+```
+
+
+
 ## License
+
 This repo is released under the [Apache 2.0 License](https://github.com/EricTan7/VideoVeritas/blob/main/LICENSE).
 
 ## Acknowledgements
