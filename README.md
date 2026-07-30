@@ -2,6 +2,12 @@
 
 [ 📄[**Paper**](https://arxiv.org/pdf/2602.08828) | 🔗[**Data**](https://www.modelscope.cn/datasets/EricTanh/MintVid) | 🚀[**Model**](https://www.modelscope.cn/models/EricTanh/VideoVeritas) ]
 
+## News
+
+🔥 `2026.7.30` We release our new work 🚀🚀🚀[**Veritas++**](https://github.com/EricTan7/VeritasPP) for **AI-generated image detection**🔥🔥🔥! This is an extended work of Veritas, which targets at general image detection. Code and Model are released [ [**Paper**](https://arxiv.org/abs/2607.27113) | [**Model**](https://www.modelscope.cn/models/EricTanh/VeritasPP) ]
+
+
+
 In this work, we introduce:
 
 > 📍**Perception Pretext RL**: an algorithm that leverages simple perception pretext tasks to elevate detection performance. Compatible with R1-paradigm frameworks.
